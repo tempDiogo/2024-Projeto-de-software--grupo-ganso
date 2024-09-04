@@ -27,7 +27,7 @@
 
 # Autores
 
-* Aluno 1
+* Caio Guilherme dos Santos Silva
 * Aluno 2
 * Francisco Losada Totaro
 * Aluno 4
