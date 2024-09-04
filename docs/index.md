@@ -43,7 +43,7 @@ Desenvolver um sistema de presenças para a escola INFINITO para acesso dos prof
 
 # **2. Análise de Requisito funcional e Não-funcional**
 
-- **Funcional**
+- **Funcional**<br>
 Sistema de Login<br>
 Registro de aluno e turma<br>
 Atribuição de turma ao aluno<br>
@@ -63,7 +63,7 @@ Relatório de faltas agrupados por:
     6. Aluno
 <br>
 
-- **Não-Funcional**
+- **Não-Funcional**<br>
 Garantir que informações pessoais sejam criptografadas<br>
 O sistema deve estar disponível 99,99% do tempo (alta disponibilidade)<br>
 O sistema deve ter um tempo de resposta inferior a 5 segundos<br>
