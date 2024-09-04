@@ -44,16 +44,16 @@ Desenvolver um sistema de presenças para a escola INFINITO para acesso dos prof
 # **2. Análise de Requisito funcional e Não-funcional**
 
 - **Funcional**
-Sistema de Login
-Registro de aluno e turma
-Atribuição de turma ao aluno
-Acesso dos professores as turmas
-Sistema de presença
-Registro de faltas
-Sistema de notificação automático por email
-Acessibilidade
-Responsividade
-Registro/Leitura do email dos responsáveis
+Sistema de Login<br>
+Registro de aluno e turma<br>
+Atribuição de turma ao aluno<br>
+Acesso dos professores as turmas<br>
+Sistema de presença<br>
+Registro de faltas<br>
+Sistema de notificação automático por email<br>
+Acessibilidade<br>
+Responsividade<br>
+Registro/Leitura do email dos responsáveis<br>
 Relatório de faltas agrupados por:
     1. Data
     2. Ano de ensino
@@ -64,14 +64,14 @@ Relatório de faltas agrupados por:
 <br>
 
 - **Não-Funcional**
-Garantir que informações pessoais sejam criptografadas
-O sistema deve estar disponível 99,99% do tempo (alta disponibilidade)
-O sistema deve ter um tempo de resposta inferior a 5 segundos
-O sistema deve suportar o acesso simultâneo de todos os professores
-O sistema deve ser capaz de processar 500 transações por segundo
-O sistema precisa ter acesso a um banco de dados para permanência das informações
-O sistema deve ser capaz de calcular a porcentagem de faltas dos alunos
-O sistema deve ser capaz de detectar incongruências nos dados
+Garantir que informações pessoais sejam criptografadas<br>
+O sistema deve estar disponível 99,99% do tempo (alta disponibilidade)<br>
+O sistema deve ter um tempo de resposta inferior a 5 segundos<br>
+O sistema deve suportar o acesso simultâneo de todos os professores<br>
+O sistema deve ser capaz de processar 500 transações por segundo<br>
+O sistema precisa ter acesso a um banco de dados para permanência das informações<br>
+O sistema deve ser capaz de calcular a porcentagem de faltas dos alunos<br>
+O sistema deve ser capaz de detectar incongruências nos dados<br>
 O sistema deve ser capaz de disparar emails através da web
 
 
