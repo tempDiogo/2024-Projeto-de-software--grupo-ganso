@@ -37,12 +37,44 @@
 * Aluno 8
 
 
-# Descrição do Projeto
+# **1. Descrição do Projeto**
 
-*&lt;Introdução do projeto&gt;*
+Desenvolver um sistema de presenças para a escola INFINITO para acesso dos professores, tendo um acesso próprio para cada professor e que registra a chamada no ínicio das aulas e logo após o intervalo, gerando um relatório das faltas de cada aluno, podendo ser agrupado por data, ano de ensino, turma, etc. Além de enviar notificações para os responsáveis por excessor de faltas, contando com acessibilidade e acesso à partir da web.
 
-# Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+# **2. Análise de Requisito funcional e Não-funcional**
+
+- **Funcional**
+Sistema de Login
+Registro de aluno e turma
+Atribuição de turma ao aluno
+Acesso dos professores as turmas
+Sistema de presença
+Registro de faltas
+Sistema de notificação automático por email
+Acessibilidade
+Responsividade
+Registro/Leitura do email dos responsáveis
+Relatório de faltas agrupados por:
+    1. Data
+    2. Ano de ensino
+    3. Turma
+    4. Professor
+    5. Disciplina
+    6. Aluno
+<br>
+
+- **Não-Funcional**
+Garantir que informações pessoais sejam criptografadas
+O sistema deve estar disponível 99,99% do tempo (alta disponibilidade)
+O sistema deve ter um tempo de resposta inferior a 5 segundos
+O sistema deve suportar o acesso simultâneo de todos os professores
+O sistema deve ser capaz de processar 500 transações por segundo
+O sistema precisa ter acesso a um banco de dados para permanência das informações
+O sistema deve ser capaz de calcular a porcentagem de faltas dos alunos
+O sistema deve ser capaz de detectar incongruências nos dados
+O sistema deve ser capaz de disparar emails através da web
+
+
 
 # Diagrama de Atividades
 
