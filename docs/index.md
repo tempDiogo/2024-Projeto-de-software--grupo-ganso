@@ -28,7 +28,7 @@
 # Autores
 
 * Caio Guilherme dos Santos Silva
-* Aluno 2
+* Diogo Fassina Garcia
 * Francisco Losada Totaro
 * Aluno 4
 * Aluno 5
