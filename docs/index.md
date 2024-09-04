@@ -29,7 +29,7 @@
 
 * Aluno 1
 * Aluno 2
-* Aluno 3
+* Francisco Losada Totaro
 * Aluno 4
 * Aluno 5
 * Aluno 6
