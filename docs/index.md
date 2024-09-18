@@ -30,12 +30,8 @@
 * Caio Guilherme dos Santos Silva
 * Diogo Fassina Garcia
 * Francisco Losada Totaro
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* Serena Maria Resende Bottas
+* Isabella de Castro Jorge
 
 # **1. Descrição do Projeto**
 
