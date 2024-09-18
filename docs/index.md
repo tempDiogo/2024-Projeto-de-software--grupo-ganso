@@ -81,7 +81,8 @@ O sistema deve ser capaz de disparar emails através da web
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+file:///home/aluno/Downloads/diagrama_casos.drawio.png
+
 
 # Descrição dos Casos de Uso
 
