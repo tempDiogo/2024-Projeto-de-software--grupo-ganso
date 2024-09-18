@@ -16,7 +16,7 @@
 - [Descrição do Projeto](#1.-Descrição-do-Projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
-- [Diagrama de Casos de Uso](#-Diagrama-de-Casos-de-Uso)
+- [Diagrama de Casos de Uso](#Diagrama-de-Casos-de-Uso)
 - [Descrição dos Casos de Uso](#descrição-das-funcões)
 - [Diagrama de Senquencia](#diagrama-de-ordem-interações)
 - [Diagrama de Classes](#diagrama-orientado-objetos)
