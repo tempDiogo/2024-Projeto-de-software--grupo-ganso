@@ -81,7 +81,8 @@ O sistema deve ser capaz de disparar emails através da web
 
 # Diagrama de Casos de Uso
 
-file:///home/aluno/Downloads/diagrama_casos.drawio.png
+
+![diagrama_casos](https://github.com/user-attachments/assets/e48bc1c8-d4c8-4f73-8d9d-4fca55fa7baa)
 
 
 # Descrição dos Casos de Uso
