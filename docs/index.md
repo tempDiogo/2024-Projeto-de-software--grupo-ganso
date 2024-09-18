@@ -13,8 +13,8 @@
 **Conteúdo**
 
 - [Autores](#Autores)
-- [Descrição do Projeto](#1.-Descrição-do-Projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Descrição do Projeto](#Descrição-do-Projeto)
+- [Análise de Requisitos Funcionais e Não-Fucionais](#Análise-de-Requisito-funcional-e-Não-funcional)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#Diagrama-de-Casos-de-Uso)
 - [Descrição dos Casos de Uso](#Descrição-dos-Casos-de-Uso)
@@ -33,11 +33,11 @@
 * Serena Maria Resende Bottas
 * Isabella de Castro Jorge
 
-# 1. Descrição do Projeto
+# Descrição do Projeto
 
 Desenvolver um sistema de presenças para a escola INFINITO para acesso dos professores, tendo um acesso próprio para cada professor e que registra a chamada no ínicio das aulas e logo após o intervalo, gerando um relatório das faltas de cada aluno, podendo ser agrupado por data, ano de ensino, turma, etc. Além de enviar notificações para os responsáveis por excessor de faltas, contando com acessibilidade e acesso à partir da web.
 
-# **2. Análise de Requisito funcional e Não-funcional**
+# Análise de Requisito funcional e Não-funcional
 
 - **Funcional**<br>
 Sistema de Login<br>
