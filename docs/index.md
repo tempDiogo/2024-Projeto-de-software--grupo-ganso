@@ -13,7 +13,7 @@
 **Conteúdo**
 
 - [Autores](#Autores)
-- [Descrição do Projeto](#1.-Descrição-do-Projeto)
+- [Descrição do Projeto](#1.)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
