@@ -42,7 +42,7 @@ Desenvolver um sistema de presenças para a escola INFINITO para acesso dos prof
 - **Funcional**<br>
 Sistema de Login<br>
 Registro de aluno e turma<br>
-Atribuição de turma ao aluno<br>
+Atribuição de aluno para turma<br>
 Acesso dos professores as turmas<br>
 Sistema de presença<br>
 Registro de faltas<br>
