@@ -87,7 +87,8 @@ O sistema deve ser capaz de disparar emails através da web
 
 # Descrição dos Casos de Uso
 
-[descrição de casos de uso](Descrição-de-Caso-de-uso.pdf)
+[Descrição-de-Caso-de-uso.pdf](https://github.com/user-attachments/files/17647327/Descricao-de-Caso-de-uso.pdf)
+
 
 # Diagrama de Sequência
 
