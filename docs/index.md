@@ -91,7 +91,7 @@ O sistema deve ser capaz de disparar emails através da web
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![diagramaSequencia](https://github.com/user-attachments/assets/0882f2b2-6625-4699-87af-4fc34454b27e)
 
 # Diagrama de Classes
 
