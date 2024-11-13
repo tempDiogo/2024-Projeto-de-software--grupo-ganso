@@ -96,7 +96,7 @@ O sistema deve ser capaz de disparar emails através da web
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![diagrama_de_classe drawio](https://github.com/user-attachments/assets/dde3fda5-5f41-4056-a007-53ab58b5d38e)
 
 # Diagrama de Estados
 
