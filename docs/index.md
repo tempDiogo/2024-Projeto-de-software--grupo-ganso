@@ -100,7 +100,7 @@ O sistema deve ser capaz de disparar emails através da web
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama de estado drawio](https://github.com/user-attachments/assets/39d4f4cf-1e10-4ba3-af1e-beb14a8d4cae)
 
 # Diagrama de Implantação
 
